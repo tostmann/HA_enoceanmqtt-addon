@@ -1,7 +1,7 @@
 name: "EnOcean MQTT (net-dev)"
 description: "EnOcean to MQTT bridge for Home Assistant w/ tcp support"
 url: "https://github.com/tostmann/HA_enoceanmqtt-addon"
-version: "0.1.28-2"
+version: "0.1.28-3"
 slug: "ha_enoceanmqtt_net_dev"
 stage: "experimental"
 init: false
